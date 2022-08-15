@@ -23,4 +23,4 @@ Netlify
 npm install react-markdown
 ```
 
-*Note: I have developed this project ~ [16] on part of React and Projects Course thought by John Smilga.*
+*Note: I have developed this project ~ [16] as part of React and Projects Course taught by John Smilga..*
